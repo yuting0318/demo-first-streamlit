@@ -1,0 +1,4 @@
+treamlit
+gspread
+pandas
+numpy
